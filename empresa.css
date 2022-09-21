@@ -1,0 +1,26 @@
+.banner-descricao {
+    display: flex;
+    align-items: center;
+    width: 90%;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.banner-descricao.banner-2 {
+    flex-direction: row-reverse;
+}
+
+.banner-descricao img {
+    width: 400px;
+}
+
+.banner-descricao .banner-text {
+    width: 400px;
+}
+
+.text-main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
