@@ -24,3 +24,7 @@
     flex-direction: column;
     text-align: center;
 }
+
+.banner-descricao .banner-text h1 {
+    color: rgb(255, 38, 0);
+}
