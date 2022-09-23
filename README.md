@@ -1,4 +1,4 @@
-# Pagina Institucional de Bebidas
+# Pagina Institucional Landing page
 
 ### Tecnologias utilizadas
 
