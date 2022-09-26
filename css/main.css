@@ -1,4 +1,13 @@
-.nav-pos {
-    bottom: 0;
-    position: fixed;
+:root {
+    --primary-color: #0682ff;
+    --primary-color-highlight: #4f9ee2;
+    --bs-body-bg: #ee0083;
+    --bs-body-font-family: 'Montserrat', sans-serif;    
+    --bs-bg-dark: #00ffff;
+
+}
+
+.navbar-brand bg-dark {
+    color: var(--bs-body-bg);
+
 }
